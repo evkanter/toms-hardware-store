@@ -1,0 +1,19 @@
+.LoremIpsum {
+  width: 640px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top:50px;
+}
+
+.left-image {
+  float: left;
+  width: 260px;
+}
+.right-text {
+  float: right;
+  width: 370px;
+}
+.right-text p {
+    margin-top:0;
+}
+
